@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@engineerball](https://medium.com/@engineerball)
 
-- 💬 Ask me about **Docker, Kubernetes, DevOps**
+- 💬 Ask me about **Kubernetes, DevOps, GitOps, MLOps**
 
 - 📫 How to reach me **ball@engineerball.com**
 
