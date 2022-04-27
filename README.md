@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/teerapat-khunpech/](https://www.linkedin.com/in/teerapat-khunpech/)
 
-- ⚡ Fun fact **Beer lover 🍺**
+- ⚡ Fun fact **Beer lover 🍺**, E-Sports Areana Of Valors Player at [VAPORLYNX](https://vaporlynx.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
