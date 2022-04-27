@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/engineerball" target="blank"><img src="https://img.shields.io/twitter/follow/engineerball?logo=twitter&style=for-the-badge" alt="engineerball" /></a> </p>
 
-- 🔭 I’m currently working on [SGD](https://sgd.co.th)
+- 🔭 I’m currently working on [AIQUBE](https://aiqube.co), [QUBIT PLUS](https://qubit-plus.com)
 
 - 👨‍💻 All of my projects are available at [https://engineerball.com](https://engineerball.com)
 
